@@ -1,8 +1,4 @@
-# React + Vite
+# CuacaSekitar
+Aplikasi peramalan cuaca saat ini dan beberapa jam kedepan dengan pencarian berbagai kota diseluruh dunia
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Dibuat dengan React sebagai FrontEnd, Vite sebagai builder dan API dari OpenWeather untuk ramalan cuacanya.
