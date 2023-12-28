@@ -13,7 +13,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 
 /*
 Akun OpenWeather
-	username : rachmadmaulana
+	username : rachmadmaulanaaa@gmail.com
 	password : soerabaja46
 Aturan Penulisan
 	- property = snake_case
