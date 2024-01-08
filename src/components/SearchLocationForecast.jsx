@@ -83,7 +83,7 @@ class SearchLocationForecast extends React.Component {
 		};
 
 		return (
-			<div className='d-flex align-items-center'>
+			<div className='d-flex div-search-location-forecast'>
 				<div className='d-inline-block mb-0 pe-3 h3 text-nowrap'>Cuaca untuk kota</div>
 				<Autosuggest
 					suggestions={suggestions}
@@ -94,8 +94,8 @@ class SearchLocationForecast extends React.Component {
 					onSuggestionSelected={this.onSuggestionSelected}
 					inputProps={inputProps}
 				/>
-				<div className='d-inline-block py-3 ms-3'>
-					<button type='submit' className='btn btn-primary' style={{ width: '100px' }} onClick={this.handleButtonClick}>Cari</button>
+				<div className='py-3 div-btn-search-location-forecast'>
+					<button type='submit' className='btn btn-primary btn-search-location-forecast' onClick={this.handleButtonClick}>Cari</button>
 				</div>
 			</div>
 		);
