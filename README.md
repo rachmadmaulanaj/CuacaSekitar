@@ -1,7 +1,7 @@
 # CuacaSekitar
 Aplikasi peramalan cuaca saat ini dan beberapa jam kedepan dengan pencarian berbagai kota diseluruh dunia
 
-Link Demo : [CuacaSekitar](https://rachmadmaulana.000webhostapp.com/cuacasekitar)
+Link Demo : [CuacaSekitar](https://rachmadmaulanaj.github.io/cuacasekitar-app/)
 
 ![CuacaSekitar](cuacasekitar.gif)
 
